@@ -1,7 +1,7 @@
 html {
     background-color: black;
     color: antiquewhite;
-    text-align: center;
+    text-align: center; /*align text in center horizontally*/
 }
 
 div {
@@ -9,6 +9,7 @@ div {
     width: 50%;
     margin-left: 25%;
     margin-top: 5%;
+    align-content: center; /*align space around content to center.*/
 }
 
 
