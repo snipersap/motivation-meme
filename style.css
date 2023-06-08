@@ -1,0 +1,31 @@
+html {
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+}
+
+div {
+    /* border: 1px solid antiquewhite; */
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+
+img {
+    background-color: antiquewhite;
+    border: 2px solid antiquewhite;
+    padding: 2px;
+    width: 80%; /*To align the img within the div*/
+}
+
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+
+}
